@@ -1,0 +1,7 @@
+Attribute1,Attribute2,Attribute3,Attribute4,Attribute5,Attribute6,Class
+Sunny,Hot,High,Weak,Low,No,No
+Sunny,Hot,High,Strong,Low,No,No
+Overcast,Hot,High,Weak,Low,Yes,Yes
+Rainy,Mild,High,Weak,Low,Yes,Yes
+Rainy,Cool,Normal,Weak,High,Yes,Yes
+Sunny,Cool,Normal,Weak,Low,Yes,Yes
